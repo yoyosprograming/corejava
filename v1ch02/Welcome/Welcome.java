@@ -2,6 +2,7 @@
  * This program displays a greeting for the reader.
  * @version 1.30 2014-02-27
  * @author Cay Horstmann
+ * 
  */
 public class Welcome
 {
